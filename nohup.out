@@ -1,0 +1,54 @@
+[I 16:03:51.522 NotebookApp] Serving notebooks from local directory: /home/danil/Documents/University Classification/Classification_Hometask
+[I 16:03:51.522 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 16:03:51.522 NotebookApp] http://localhost:8888/?token=03ae9b0d583f2eb01b9412053af20e291d04be0ca1422ab9
+[I 16:03:51.522 NotebookApp]  or http://127.0.0.1:8888/?token=03ae9b0d583f2eb01b9412053af20e291d04be0ca1422ab9
+[I 16:03:51.522 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:03:51.532 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/danil/.local/share/jupyter/runtime/nbserver-5559-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=03ae9b0d583f2eb01b9412053af20e291d04be0ca1422ab9
+     or http://127.0.0.1:8888/?token=03ae9b0d583f2eb01b9412053af20e291d04be0ca1422ab9
+[W 16:03:53.967 NotebookApp] 404 GET /api/kernels/0203bc46-1ef8-43e9-a68e-248ab99de388/channels?session_id=661300953f7b47d2b3ba62d6aca297a9 (127.0.0.1): Kernel does not exist: 0203bc46-1ef8-43e9-a68e-248ab99de388
+[W 16:03:53.970 NotebookApp] 404 GET /api/kernels/0203bc46-1ef8-43e9-a68e-248ab99de388/channels?session_id=661300953f7b47d2b3ba62d6aca297a9 (127.0.0.1) 4.030000ms referer=None
+[W 16:03:57.484 NotebookApp] Notebook Task_5-Copy1.ipynb is not trusted
+[I 16:03:57.670 NotebookApp] Kernel started: 6fccb978-56c9-479c-a24b-339a4ca2e5a1, name: python3
+[W 16:04:10.972 NotebookApp] 404 GET /api/kernels/0203bc46-1ef8-43e9-a68e-248ab99de388/channels?session_id=661300953f7b47d2b3ba62d6aca297a9 (127.0.0.1): Kernel does not exist: 0203bc46-1ef8-43e9-a68e-248ab99de388
+[W 16:04:10.972 NotebookApp] 404 GET /api/kernels/0203bc46-1ef8-43e9-a68e-248ab99de388/channels?session_id=661300953f7b47d2b3ba62d6aca297a9 (127.0.0.1) 1.450000ms referer=None
+[W 16:04:43.967 NotebookApp] 404 GET /api/kernels/0203bc46-1ef8-43e9-a68e-248ab99de388/channels?session_id=661300953f7b47d2b3ba62d6aca297a9 (127.0.0.1): Kernel does not exist: 0203bc46-1ef8-43e9-a68e-248ab99de388
+[W 16:04:43.968 NotebookApp] 404 GET /api/kernels/0203bc46-1ef8-43e9-a68e-248ab99de388/channels?session_id=661300953f7b47d2b3ba62d6aca297a9 (127.0.0.1) 1.340000ms referer=None
+[I 16:05:36.121 NotebookApp] Starting buffering for 6fccb978-56c9-479c-a24b-339a4ca2e5a1:25d5387587ba4bcf83b9090c6efa8ed1
+[I 16:05:36.348 NotebookApp] Kernel restarted: 6fccb978-56c9-479c-a24b-339a4ca2e5a1
+[I 16:05:36.354 NotebookApp] Restoring connection for 6fccb978-56c9-479c-a24b-339a4ca2e5a1:25d5387587ba4bcf83b9090c6efa8ed1
+[I 16:05:36.869 NotebookApp] Replaying 3 buffered messages
+[W 16:05:48.967 NotebookApp] 404 GET /api/kernels/0203bc46-1ef8-43e9-a68e-248ab99de388/channels?session_id=661300953f7b47d2b3ba62d6aca297a9 (127.0.0.1): Kernel does not exist: 0203bc46-1ef8-43e9-a68e-248ab99de388
+[W 16:05:48.968 NotebookApp] 404 GET /api/kernels/0203bc46-1ef8-43e9-a68e-248ab99de388/channels?session_id=661300953f7b47d2b3ba62d6aca297a9 (127.0.0.1) 1.190000ms referer=None
+[I 16:05:57.677 NotebookApp] Saving file at /Task_5-Copy1.ipynb
+[I 16:06:02.881 NotebookApp] Starting buffering for 6fccb978-56c9-479c-a24b-339a4ca2e5a1:25d5387587ba4bcf83b9090c6efa8ed1
+[I 17:14:42.534 NotebookApp] Serving notebooks from local directory: /home/danil/Documents/University Classification/Classification_Hometask
+[I 17:14:42.534 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 17:14:42.534 NotebookApp] http://localhost:8888/?token=ef83c5872babb43f190bcac9abfe8239319c3d5ef7134779
+[I 17:14:42.534 NotebookApp]  or http://127.0.0.1:8888/?token=ef83c5872babb43f190bcac9abfe8239319c3d5ef7134779
+[I 17:14:42.534 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:14:42.544 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/danil/.local/share/jupyter/runtime/nbserver-7429-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=ef83c5872babb43f190bcac9abfe8239319c3d5ef7134779
+     or http://127.0.0.1:8888/?token=ef83c5872babb43f190bcac9abfe8239319c3d5ef7134779
+[I 17:14:49.121 NotebookApp] Kernel started: 08792821-652a-4533-88ed-0bc03a98467d, name: python3
+[I 17:14:51.385 NotebookApp] Starting buffering for 08792821-652a-4533-88ed-0bc03a98467d:ab2b17bd1c2e471a8623c99c3a54d824
+[I 17:14:53.227 NotebookApp] Kernel started: b837f4ef-1f74-47f2-823b-984934b3e623, name: python3
+[I 17:14:55.397 NotebookApp] Starting buffering for b837f4ef-1f74-47f2-823b-984934b3e623:f4d3f53ce7e04be4855be47bcbfa8a5c
+[I 17:14:55.523 NotebookApp] Kernel restarted: b837f4ef-1f74-47f2-823b-984934b3e623
+[I 17:14:55.529 NotebookApp] Restoring connection for b837f4ef-1f74-47f2-823b-984934b3e623:f4d3f53ce7e04be4855be47bcbfa8a5c
+[I 17:14:55.907 NotebookApp] Replaying 3 buffered messages
+[I 17:16:53.536 NotebookApp] Saving file at /Task_4-Copy1.ipynb
+[I 17:21:33.384 NotebookApp] Starting buffering for b837f4ef-1f74-47f2-823b-984934b3e623:f4d3f53ce7e04be4855be47bcbfa8a5c
+[I 17:21:33.811 NotebookApp] Kernel restarted: b837f4ef-1f74-47f2-823b-984934b3e623
+[I 17:21:33.816 NotebookApp] Restoring connection for b837f4ef-1f74-47f2-823b-984934b3e623:f4d3f53ce7e04be4855be47bcbfa8a5c
+[I 17:21:34.165 NotebookApp] Replaying 3 buffered messages
+[I 17:22:53.537 NotebookApp] Saving file at /Task_4-Copy1.ipynb
+[I 17:44:50.645 NotebookApp] Starting buffering for b837f4ef-1f74-47f2-823b-984934b3e623:f4d3f53ce7e04be4855be47bcbfa8a5c
